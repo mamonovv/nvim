@@ -21,6 +21,7 @@ return {
         -- Необязательно: чтобы убрать фон у боковой панели (Neo-tree/Nvim-tree)
         NeoTreeNormal = { bg = "NONE" },
         NeoTreeNormalNC = { bg = "NONE" },
+        LineNr = { fg = "#708090" },
       },
       astrodark = { -- a table of overrides/changes when applying the astrotheme theme
         -- Normal = { bg = "#000000" },
